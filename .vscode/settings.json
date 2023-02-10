@@ -68,9 +68,6 @@
     "notebook.diff.ignoreMetadata": true,
     "notebook.diff.ignoreOutputs": true,
 
-    // IntelliSense AI Extension
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-
     // Text [Markdownlint]
     "[markdown]": {
         "files.trimTrailingWhitespace": false,
@@ -84,9 +81,6 @@
         "editor.wordWrapColumn": 120
     },
     // Other extensions
-    // [CodeSnap] -> Snapshots of Code
-    "codesnap.showWindowControls": false,
-    "codesnap.shutterAction": "copy",
     // [ErrorLens] -> Error Highlighting
     "errorLens.delay": 1000,
     "errorLens.enabledDiagnosticLevels": ["error", "warning"],
@@ -105,5 +99,5 @@
 
     "svg.preview.autoOpen": true,
 
-    "editor.cursorSmoothCaretAnimation": true
+    "editor.cursorSmoothCaretAnimation": "on"
 }
