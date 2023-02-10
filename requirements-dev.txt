@@ -1,0 +1,12 @@
+# command line interface
+click
+
+# requirements for developing package
+isort
+flake8
+mypy
+autopep8
+pre-commit
+
+# others
+bump2version
