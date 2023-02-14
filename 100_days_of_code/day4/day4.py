@@ -11,6 +11,11 @@ import random
 from typing import List
 
 def get_designs()->List[str]:
+    '''defines rock,paper and scissor game designs as strings
+
+    :return: List containing game designs, which need to be in correct order
+    :rtype: List[str]
+    '''
 
     rock = '''
             _______
