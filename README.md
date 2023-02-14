@@ -13,5 +13,9 @@
     - Challenge contains creating a Tip Calculator.
 
 - Day 3:
-    - Covers conditional statements, logical operators, code blocks and scope
-    - Challenge contains creating a Choosing Adventure Game
+    - Covers conditional statements, logical operators, code blocks and scope.
+    - Challenge contains creating a Choosing Adventure Game.
+
+- Day 4:
+    - Covers indexing and randomization.
+    - Challenge contains creating own Rock, Paper & Scissors Game.
