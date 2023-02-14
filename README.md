@@ -6,8 +6,12 @@
 
 - Day 1: 
     - Covers working with variables, print statements and user inputs.
-    - Challenge contained creating a Band Name Generator.
+    - Challenge contains creating a Band Name Generator.
 
 - Day 2:
     - Covers working with data types, numbers, operations, type conversions and f-strings.
-    - Challenge contained creating a Tip Calculator.
+    - Challenge contains creating a Tip Calculator.
+
+- Day 3:
+    - Covers conditional statements, logical operators, code blocks and scope
+    - Challenge contains creating a Choosing Adventure Game
