@@ -62,7 +62,6 @@
 
     // Jupyter Notebook [Jupyter]
     "jupyter.useDefaultConfigForJupyter": true,
-    "jupyter.interactiveWindowMode": "perFile",
     "jupyter.themeMatplotlibPlots": true,
     "notebook.compactView": false,
     "notebook.diff.ignoreMetadata": true,
@@ -99,5 +98,6 @@
 
     "svg.preview.autoOpen": true,
 
-    "editor.cursorSmoothCaretAnimation": "on"
+    "editor.cursorSmoothCaretAnimation": "on",
+    "jupyter.interactiveWindow.creationMode": "perFile"
 }
